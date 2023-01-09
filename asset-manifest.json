@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.b394f9f6.css",
-    "main.js": "/static/js/main.3794322c.js",
-    "index.html": "/index.html",
-    "main.b394f9f6.css.map": "/static/css/main.b394f9f6.css.map",
-    "main.3794322c.js.map": "/static/js/main.3794322c.js.map"
+    "main.css": "/noahfarinas/website.git/static/css/main.b394f9f6.css",
+    "main.js": "/noahfarinas/website.git/static/js/main.3794322c.js",
+    "index.html": "/noahfarinas/website.git/index.html",
+    "main.b394f9f6.css.map": "/noahfarinas/website.git/static/css/main.b394f9f6.css.map",
+    "main.3794322c.js.map": "/noahfarinas/website.git/static/js/main.3794322c.js.map"
   },
   "entrypoints": [
     "static/css/main.b394f9f6.css",

@@ -40,7 +40,7 @@ const Navbar = () => {
     <header>
       <div className="navbar">
         <div className="name">
-          <img src="./photos/jordan.gif" alt="shoes" />
+          <img src="./photos/jordan.GIF" alt="shoes" />
           <div className="navbarMenu">
             {NAV.map((item) => (
               <h3>{item.name}</h3>

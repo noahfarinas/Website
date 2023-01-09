@@ -231,3 +231,37 @@ li {
   width: 350px;
   height: auto;
 }
+
+@media screen and (max-width: 740px) {
+
+  .skills,
+  .photo,
+  .name,
+  .body
+  {
+    display: block;
+    overflow-x: hidden;
+    margin: auto;
+  }
+
+  .photo h3 {
+    text-align: center;
+  }
+
+  .projectView {
+    display: block;
+    overflow-x: hidden;
+    margin: auto;
+  }
+  .projectView img { 
+    width: 100%;
+  }
+
+  .navbarMenu {
+    display: none;
+  }
+  .name img {
+    height: auto;
+    width: 60%;
+  }
+}

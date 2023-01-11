@@ -48,7 +48,8 @@ header {
 }
 .name img {
   height: auto;
-  width: 14%;
+  width: 10%;
+  margin: 10px;
 }
 
 .navbar a {
